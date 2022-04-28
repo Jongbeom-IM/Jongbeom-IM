@@ -1,5 +1,6 @@
-# MUSIC IS MY LIFE...
+## _Hello, taco_cat is here . . . ._
 
+I've studied at MyungJi University, Mechanical Engineering & Embedded System
 <!--
 **Jongbeom-IM/Jongbeom-IM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
