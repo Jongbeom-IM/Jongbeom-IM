@@ -1,6 +1,6 @@
 ## _Hello, taco_cat is here . . . ._
 
-**Myung-Ji University**
+**Myung-Ji University**, Korea
 
 Mechanical Engineering & Embedded System Engineering
 
