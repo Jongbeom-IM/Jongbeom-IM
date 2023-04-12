@@ -1,4 +1,4 @@
-## _Hello, taco_cat is here . . . ._
+# _Hello, taco_cat is here . . . ._
 
 **Sung-Kyun-Kwan University**, Korea
 
@@ -20,30 +20,30 @@ _**contact : jongbeom.im@g.skku.edu**_
 
 
 
-## 경력 기술서
-### (주)현보
-#### 2022.01 ~ 2022.03, 인턴
-##### PDSD 부서 - 차량 자동 제어 과제
+# 경력 기술서
+## (주)현보
+### 2022.01 ~ 2022.03, 인턴
+#### PDSD 부서 - 차량 자동 제어 과제
 - 주요 업무 : HW 팀 소속 PCB interface 검증
 - 양산 PCB의 interface, Power protection, MCU-sleepmode, SPI/LIN 통신 검증
 - MCU sleepmode, ADC, Interface에서 3개의 이슈를 발견하여 FW/HW팀에 보고하여 MCU의 일부 Register를 조작하여 정상
 
-#### 2022.03 ~ 2022.07, 인턴
-##### ADAS 부서 - 차세대 초음파 센서 개발
+### 2022.03 ~ 2022.07, 인턴
+#### ADAS 부서 - 차세대 초음파 센서 개발
  - 주요 업무 : SW 팀 소속 FW 개발 및 검증
  - 초음파 센서의 탐지 성능 검증 support
  - 고객사 현지 온습도에 따른 threshold 최적값을 도출하기 위한 FOV 및 차량 범퍼 장착 테스트
  - 센서 탐지 범위(FOV) 준수 확인, ISO26262 검증
 
-#### 2022.07 ~ 2023.03, 연구원
-##### ADAS 부서 - 차세대 초음파 센서 개발
+### 2022.07 ~ 2023.03, 연구원
+#### ADAS 부서 - 차세대 초음파 센서 개발
  - 주요 업무 : SW 팀 소속 FW 개발 및 검증
  - 3D 초음파 센서 개발을 위한 해외 선점 업체(Toposens) 장비 데이터 parsing
  - elmos/microchip 을 사용한 FW 설계
 
-### 성균관대학교 전자전기컴퓨터공학과
-#### 2023.03 ~ , 석사 과정
-##### SYSLAB - A.I, IoT Service edge Computing 
+## 성균관대학교 전자전기컴퓨터공학
+### 2023.03 ~ , 석사 과정
+#### System Software(SYSLAB) - A.I, IoT Service edge Computing 
  -
 
 ## 방문자 여러분, 귀중한 하루 보내십시오... Good Luck!
