@@ -46,9 +46,12 @@ _**contact : jongbeom.im@g.skku.edu**_
 #### System Software(SYSLAB) - A.I, IoT Service edge Computing 
  -
 
-# 방문자 여러분, 귀중한 하루 보내십시오... Good Luck!
+# 인삿말
+##### 방문해주셔서 감사합니다. 찾아와주신 모든 분들의 오늘이 더 귀중한 하루가 되길 바랍니다.
+##### 좋은 하루 보내시고, 건강하고 행복하세요. Good luck
 <p align="center">
  <img src = "https://user-images.githubusercontent.com/80473250/231416287-f584230a-6e71-4c97-a506-e2cdb0e834b6.png" width ="15%" height="15%">
  <img src = "https://user-images.githubusercontent.com/80473250/231414141-78249514-c500-4d9c-b1ab-14fbc03c6e0c.png" width="40%" height="40%">
  <img src = "https://user-images.githubusercontent.com/80473250/231416018-38aa8640-af26-4d49-9fc2-65f9a62fc92e.png" width ="15%" height="15%">
+ 
 </p>
