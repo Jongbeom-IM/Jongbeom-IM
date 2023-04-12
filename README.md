@@ -45,5 +45,5 @@ _**contact : jong_547@naver.com**_
 ##### SYSLAB - A.I, IoT Service edge Computing
  -
 
-## 방문해주셔서 감사합니다 좋은 하루 되십시오, Good Luck!
+## 방문자 여러분의 귀중한 하루가 되시길... Good Luck!
 ![image](https://user-images.githubusercontent.com/80473250/231412578-9b88ccdf-d621-43fc-8b2a-4f73308766a5.png)
