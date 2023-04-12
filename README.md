@@ -44,3 +44,6 @@ _**contact : jong_547@naver.com**_
 #### 2023.03 ~ , 성균관대학교 석사과정
 ##### SYSLAB - A.I, IoT Service edge Computing
  -
+
+## Have a nice Day, Good Luck!
+![image](https://user-images.githubusercontent.com/80473250/231412578-9b88ccdf-d621-43fc-8b2a-4f73308766a5.png)
