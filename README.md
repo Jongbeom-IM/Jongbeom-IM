@@ -1,6 +1,6 @@
 ## _Hello, taco_cat is here . . . ._
 
-**Sung-kyun-kwan Univ.**, Korea
+**Sung-Kyun-Kwan Univ.**, Korea
 
 
 Mechanical Engineering & Embedded System Engineering bachelor's degree from Myung-Ji Univ.
