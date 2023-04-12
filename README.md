@@ -41,7 +41,8 @@ _**contact : jongbeom.im@g.skku.edu**_
  - 3D 초음파 센서 개발을 위한 해외 선점 업체(Toposens) 장비 데이터 parsing
  - elmos/microchip 을 사용한 FW 설계
 
-#### 2023.03 ~ , 성균관대학교 석사과정
+### 성균관대학교
+#### 2023.03 ~ , 전자전기컴퓨터공학과 석사
 ##### SYSLAB - A.I, IoT Service edge Computing
  -
 
