@@ -22,13 +22,13 @@ _**contact : jong_547@naver.com**_
 
 ## 경력 기술서
 ### (주)현보
-#### 2022.01 ~ 2022.03, 단기 인턴
+#### 2022.01 ~ 2022.03, 인턴
 ##### PDSD 부서 - 차량 자동 제어 과제
 - 주요 업무 : HW 팀 소속 PCB interface 검증
 - 양산 PCB의 interface, Power protection, MCU-sleepmode, SPI/LIN 통신 검증
 - MCU sleepmode, ADC, Interface에서 3개의 이슈를 발견하여 FW/HW팀에 보고하여 MCU의 일부 Register를 조작하여 정상
 
-#### 2022.03 ~ 2022.07, 장기 인턴
+#### 2022.03 ~ 2022.07, 인턴
 ##### ADAS 부서 - 차세대 초음파 센서 개발
  - 주요 업무 : SW 팀 소속 FW 개발 및 검증
  - 초음파 센서의 탐지 성능 검증 support
