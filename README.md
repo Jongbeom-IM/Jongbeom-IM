@@ -31,8 +31,12 @@ _**contact : jong_547@naver.com**_
  - 고객사 현지 온습도에 따른 threshold 최적값을 도출하기 위한 FOV 및 차량 범퍼 장착 테스트
  - 센서 탐지 범위(FOV) 준수 확인, ISO26262 검증
 
-#### 2022.07 ~ 현재, 연구원
+#### 2022.07 ~ 2023.03, 연구원
 ##### ADAS 부서 - 차세대 초음파 센서 개발
  - 주요 업무 : SW 팀 소속 FW 개발 및 검증
  - 3D 초음파 센서 개발을 위한 해외 선점 업체(Toposens) 장비 데이터 parsing
  - elmos/microchip 을 사용한 FW 설계
+
+### 2023.03 ~ , 성균관대학교 석사과정
+#### SYSLAB - A.I, IoT Service edge Computing
+ -
