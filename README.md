@@ -29,19 +29,23 @@ _**contact : jongbeom.im@g.skku.edu**_
 #### ADAS 부서 - 차세대 초음파 센서 개발
  - 주요 업무 : SW 팀 소속 FW 개발 및 검증
  - 초음파 센서의 탐지 성능 검증 support
- - 고객사 현지 온습도에 따른 threshold 최적값을 도출하기 위한 FOV 및 차량 범퍼 장착 테스트
- - 센서 탐지 범위(FOV) 준수 확인, ISO26262 검증
+ - 고객사 현지 온습도 최적화를 위한 FOV 및 차량 범퍼 장착 테스트
+ - 스펙 준수 확인, ISO26262 검증
 
 ### 2022.07 ~ 2023.03, 연구원
 #### ADAS 부서 - 차세대 초음파 센서 개발
  - 주요 업무 : SW 팀 소속 FW 개발 및 검증
- - 3D 초음파 센서 개발을 위한 해외 선점 업체(Toposens) 장비 데이터 parsing
- - elmos/microchip 을 사용한 FW 설계
+ - ** 초음파 센서 개발을 위한 *** 장비 데이터 parsing
+ - *** 을 사용한 FW 설계
 
 ## 성균관대학교 전자전기컴퓨터공학
 ### 2023.03 ~ , 석사 과정
 #### System Software(SYSLAB) - A.I, IoT Service edge Computing 
- -
+ - 연구 분야 : Mobile device-Edge DNN model optimization
+ - Model compression : linear weight Partial prunning method
+ - Optimal data transfer Layer parsing
+ - sub-research : tensorflow optimized embedded device in C
+
 
 # 인삿말
 
