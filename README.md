@@ -5,7 +5,7 @@
 
 Mechanical Engineering & Embedded System Engineering bachelor's degree from Myung-Ji Univ.
 
-Dept. of Electrical and Computer Engineering undergraduate
+Dept. of Electrical and Computer Engineering Masster's student
 
 
 
